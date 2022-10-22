@@ -1,0 +1,29 @@
+
+Wpó³. podzia³u danych:              0.1
+Dane ucz¹ce:                        90%
+Dane testuj¹ce:                     10%
+
+Rozmiar macierzy danych ucz¹cych:      x_teach = [10, 10152]
+Rozmiar macierzy danych testuj¹cych:   x_test  = [10, 1129]
+
+Maksymalne b³êdy prognozy dla danych ucz¹cych:
+Maksymalne odchylenie prognozy w górê: +0.0625
+Maksymalne odchylenie prognozy w dó³:  -0.0444
+
+Maksymalne b³êdy prognozy dla danych testuj¹cych:
+Maksymalne odchylenie prognozy w górê: +0.0318
+Maksymalne odchylenie prognozy w dó³:  -0.0278
+
+
+Neurony w warstwie ukrytej:         13
+Algorytm trenuj¹cy:                 trainlm
+Dane trenuj¹ce:                     0.70
+Dane sprawdzaj¹ce:                  0.15
+Dane testuj¹ce:                     0.15
+Funkcja aktywacji w warstwie {1}:   tansig
+Funkcja aktywacji w warstwie {2}:   purelin
+
+Liczba epok uczenia:                17 (Best: 11)
+Czas uczenia sieci:                 14.60 sek.
+Gradient:                           4.3874e-05
+############################################################
